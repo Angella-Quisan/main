@@ -1,0 +1,70 @@
+body {
+  background-color: #D3D3D3;
+}
+
+h1 {
+  margin-top: 25px;
+  margin-left: 25px;
+  font-family: "Copperplate", "courier new",monospace;
+  color: black;
+  text-align: center;
+  font-size: 40px
+}
+
+.ul{
+  text-align: center;
+}
+
+li{
+  display: inline-block;
+  padding: 15px 30px;
+}
+
+a{
+  text-align: center;
+  color: white;
+  font-size: 1vw;
+}
+
+a:hover{
+  color: lime;
+  transition: 0.5s;
+}
+.navBar{
+  margin: 0 px;
+  margin-top: -55px;
+  background-color: #778899;
+}
+h2 {
+  text-align: center;
+  font-family: "Copperplate", "courier new",monospace;
+}
+.content{
+  padding: 30px 200px 30px;
+}
+.set{
+  display: flex;
+  justify-content: center;
+}
+.set img{
+  width: 360px;
+  height: 230px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 3px solid gray;
+}
+p {
+  text-align: center;
+  font-family: "Copperplate", "courier new",monospace;
+}
+.second ul{
+  text-align: center;
+}
+
+.second li{
+  display: inline-block;
+  padding: 15px 30px;
+}
+nav{
+   background-color: #778899;
+}

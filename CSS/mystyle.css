@@ -1,0 +1,74 @@
+body{
+  background-color: #D3D3D3;
+}
+
+h1 {
+  margin-top: 25px;
+  margin-left: 25px;
+  font-family: "Copperplate", "courier new",monospace;
+  color: black;
+  text-align: center;
+  font-size: 40px
+}
+
+.ul{
+  text-align: center;
+}
+
+li{
+  display: inline-block;
+  padding: 15px 30px;
+}
+
+a{
+  text-align: center;
+  color: white;
+  font-size: 1vw;
+}
+
+a:hover{
+  color: lime;
+  transition: 0.5s;
+}
+
+.navBar{
+  margin: 0 px;
+  margin-top: -20px;
+  background-color: #778899;
+}
+h2{
+  text-align: center;
+  font-family: "Copperplate", "courier new",monospace;
+  font-size: 30px;
+}
+
+.mypicture {
+  width: 480px;
+  border: 2px solid gray;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.txt{
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.txt p{
+  text-align: center;
+  font-size: 18px
+}
+.second ul{
+  text-align: center;
+}
+
+.second li{
+  display: inline-block;
+  padding: 15px 30px;
+}
+nav{
+   background-color: #778899;
+}
